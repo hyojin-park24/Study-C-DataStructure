@@ -24,6 +24,8 @@
 ### 2 자료구조의 분류   
 - 효율 적인 자료 구조 선택 : 저장 공간 용량과 실행 소요 시간 고려   
 
+<img src="https://github.com/hyojin-park24/Study-C-DataStructure/blob/master/99A09A3F5AF417EB1A.png"/>    
+
 ```   
 자료 구조 → 정렬   
          → 검색   
