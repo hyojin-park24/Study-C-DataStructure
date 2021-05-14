@@ -1,0 +1,5 @@
+﻿  단방향연결리스트-삭제.c
+D:\GitRepository\C_DataStructure\Test\단방향연결리스트-삭제.c(30,7): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\C_DataStructure\Test\단방향연결리스트-삭제.c(83,33): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\C_DataStructure\Test\단방향연결리스트-삭제.c(38): warning C4716: 'searchNode': 값을 반환해야 합니다.
+  Test.vcxproj -> D:\GitRepository\C_DataStructure\DataStructure\Debug\Test.exe
